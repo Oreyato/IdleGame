@@ -1,3 +1,3 @@
-## IdleGame
+# IdleGame
 
-#Main code under Assets > Scripts > GameManager
+Main code under Assets > Scripts > GameManager
